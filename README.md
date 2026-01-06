@@ -2,5 +2,5 @@
 
 # Creating a new environment
 ```
-conda create -p venv python==3.8 0y
+conda create -p venv python==3.8 -y
 ```
